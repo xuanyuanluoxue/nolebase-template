@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 无聊的文章
-      link: /笔记/index
+      link: /笔记/《清晰表达：思维的终极仪式》
     - theme: alt
       text: 网站源码
       link: https://github.com/xuanyuanluoxue/nolebase-template
