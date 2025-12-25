@@ -3,7 +3,7 @@ layout: home
 sidebar: false
 
 title: xavier
-titleTemplate: 修改测试……（如果你看到了这个，说明数据修改成功）
+titleTemplate: 圣诞快乐！
 
 hero:
   name: g~Nj$3J2^
