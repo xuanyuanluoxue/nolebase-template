@@ -7,28 +7,28 @@ titleTemplate: 修改测试……（如果你看到了这个，说明数据修�
 
 hero:
   name: g~Nj$3J2^
-  text: 记录回忆，知识和畅想的地方
+  text: 你好，欢迎来到轩辕落雪的个人博客！
   tagline: 你可以称呼我为“xavier”或者“轩辕落雪”，他们的区别是：xavier是我自己取的名字
   image:
     src: /logo.svg
     alt: Vitest
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 无聊的文章
       link: /笔记/index
     - theme: alt
-      text: 加入 Discord 服务器
-      link: https://discord.gg/XuNFDcDZGj
+      text: 网站源码
+      link: https://github.com/xuanyuanluoxue/nolebase-template
     - theme: alt
-      text: GitHub 上浏览
-      link: https://github.com/nolebase/nolebase
+      text: 酷安地址
+      link: http://www.coolapk.com/u/23098712
 
 features:
   - title: 多样的主题和内容
     details: 本知识库和所生成的页面均由创作者们维护，涉及到生活中各方面知识和内容，也不乏我们的回忆和畅想。
     icon: 🌈
   - title: 皆为 Markdown
-    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。
+    details: 使用 Markdown 和 Markdown 拓展语法编写和记录笔记，每一个页面都是 Markdown 文件。你问我markdwon什么是啥？我也不造啊……
     icon: 📃
   - title: 由 VitePress 驱动
     details: 基于 Vite 的强大静态文档页面生成器，它生成了我们知识库的页面，提供了简单易用的主题和工具。
